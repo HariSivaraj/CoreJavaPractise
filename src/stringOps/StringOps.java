@@ -6,7 +6,7 @@ public class StringOps {
 		// TODO Auto-generated method stub
 		String str = "Google";
 		
-		
+		System.out.println("upper case of str: "+ str.toUpperCase());
 
 	}
 
