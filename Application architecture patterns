@@ -1,0 +1,22 @@
+Application architecture patterns:
+==================================
+
+Monolithic architecture - architect an application as a single deployable unit
+Microservice architecture - architect an application as a collection of loosely coupled, services
+
+MIRCOSERVICES:
+=============
+
+	> easily deployable
+	> loosely coupled
+	> owned by small team
+	> orgainized into small chuks into whole business capablity
+
+DORA metrics:
+============
+Developed by the authors of Accelerate, the DORA metrics measure the performance of a software development teams:
+
+Deployment frequency - the frequency with which software changes are deployed to production.
+Lead time for changes - the time it takes to go from commit to deploy.
+Time to restore service - the time it takes to restore service after a production incident or outage.
+Change failure rate - the percentage of production deployments that result in a failure or require remediation.
