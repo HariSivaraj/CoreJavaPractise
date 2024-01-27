@@ -1,0 +1,15 @@
+21-01-24
+
+Core Java - Goal plan
+==================
+
+1) use interface and abstract class
+2) use enum
+
+3) Get used string functions
+
+4) Get used array
+
+5) Get used collection
+
+6) Thread  & multithreading
